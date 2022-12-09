@@ -1,3 +1,3 @@
 # ACcover_Altered
-Arts.Codes cover with CSS changes and Nav taken out
+Arts.Codes cover with CSS taken out and Nav taken out
 ... a few other hacks too
